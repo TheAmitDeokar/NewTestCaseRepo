@@ -1,0 +1,4 @@
+ApplicationURL,https://opensource-demo.orangehrmlive.com/
+ChromeDriverPath,C:\Users\Amit\Desktop\QK\QKTraining\SeleniumScripts\Drivers\chromedriver_win32\chromedriver.exe
+ObjectRepositoriesLocation,C:\Users\Amit\Desktop\FinalAssignment\TestCaseProject\TestCaseProject\ObjectRepositories
+DataFilesLocation,C:\Users\Amit\Desktop\FinalAssignment\TestCaseProject\TestCaseProject\DataFiles

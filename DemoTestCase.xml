@@ -1,0 +1,16 @@
+<suite name="DemoTestCase">
+<parameter name="Browser" value="CHROME"/>
+	<test name="LoginTestcases">
+			<classes>
+				<class name="QK1.TestCaseProject.TestCases.ValidLoginCredentialsTestcase">
+				
+				</class>
+						
+				<class name="QK1.TestCaseProject.TestCases.InvalidLoginTestCases">
+				
+				</class>
+							
+			</classes>
+		
+	</test>
+</suite>
